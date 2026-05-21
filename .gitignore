@@ -4,4 +4,3 @@ __pycache__/
 data/raw/Registro_Nacional_de_Turismo_-_RNT_20260513.csv
 data/processed/
 .venv/
-data/
